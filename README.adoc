@@ -1,4 +1,6 @@
-= Servo Library for Arduino =
+= Servo Library for Arduino (Adapted for Robopoly) =
+
+IMPORTANT NOTE: This is the same library as Servo, but using TIMER3 instead of TIMER1.
 
 This library allows an Arduino board to control RC (hobby) servo motors.
 
